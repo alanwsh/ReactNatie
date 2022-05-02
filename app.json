@@ -1,5 +1,6 @@
 {
   "expo": {
+    "backgroundColor": "#1e086a",
     "name": "ReactNatie",
     "slug": "ReactNatie",
     "version": "1.0.0",
